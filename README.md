@@ -12,5 +12,5 @@ Keep track of your score as you play and aim for a perfect win!
 
 Windows Requirements
 To run the Brick Breaker Game on a Windows machine, ensure you have the following:
-1. **Operating System**: Windows 10 or later.
-2. **Python**: Version 3.7 or higher.
+1. Operating System: Windows 10 or later.
+2. Python: Version 3.7 or higher.
